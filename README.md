@@ -5,4 +5,7 @@ This script will not add the ip address you are using to connect to the terminal
 
 Use this script at your own risk.
 
+# rm_iptables.sh
+This script will empty all the added lines to the DROP section of the iptables
+
 Zolthun
