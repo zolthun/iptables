@@ -7,5 +7,3 @@ Use this script at your own risk.
 
 # rm_iptables.sh
 This script will empty all the added lines to the DROP section of the iptables
-
-Zolthun
